@@ -10,6 +10,9 @@ function App() {
         <p>
           Odio Tibco
         </p>
+        <p>
+          Angora Noi!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
